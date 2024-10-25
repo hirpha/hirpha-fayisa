@@ -4,7 +4,7 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I specialize in web development, creating dynamic and visually appealing websites. From front-end design to back-end functionality, I can build customized web solutions that meet your specific requirements."
     },
     {
       "id": "2",
@@ -17,13 +17,8 @@
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
-    },
-    {
-      "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
     }
+     
   ],
   "portfolio": [
     {
