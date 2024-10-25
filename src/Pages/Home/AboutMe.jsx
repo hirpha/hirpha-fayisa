@@ -9,15 +9,15 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+            Experienced full-stack developer with a strong background in Flutter
+            and software engineering. Specializes in creating engaging
+            cross-platform applications, prioritizing user experience. Known for
+            adept problem-solving across various online and mobile projects
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            Skilled in building scalable systems and optimizing performance to
+            meet client needs. Passionate about using emerging technologies to
+            enhance functionality and deliver innovative solutions.
           </p>
         </div>
       </div>
