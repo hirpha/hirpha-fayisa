@@ -600,10 +600,17 @@ input[type="checkbox"] {
   .btn-outline-primary {
     display: none;
   }
+
+  .portfolio--section {
+  
+    padding: 60px 25px;
+     
+  }
   .hero--section {
     display: flex;
     flex-direction: column-reverse;
-    padding-bottom: 70px;
+     padding: 10.333px 60.333px 10.333px;
+
   }
   .hero--section--title,
   .hero--section-description,
@@ -634,6 +641,8 @@ input[type="checkbox"] {
   .contact--section,
   .footer--container {
     gap: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     padding-top: 70px;
     padding-bottom: 70px;
   }
