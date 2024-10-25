@@ -211,6 +211,7 @@ h2 {
   flex-direction: column;
   align-items: flex-start;
   gap: 21.333px;
+  padding-bottom: 30px;
 }
 .hero--section--content--box > button {
   margin-top: 21.333px;
@@ -769,7 +770,7 @@ input[type="checkbox"] {
 
 /* Responsive Screens Ends*/
 
-.hero--section--buttons {
+.hero--section--buttons { 
   display: flex;
   gap: 1rem;
 }
