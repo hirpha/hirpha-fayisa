@@ -746,3 +746,13 @@ input[type="checkbox"] {
 }
 
 /* Responsive Screens Ends*/
+
+.hero--section--buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.btn-secondary {
+  background-color: #ccc;
+  color: #333;
+}

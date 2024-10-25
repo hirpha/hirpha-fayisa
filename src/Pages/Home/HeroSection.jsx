@@ -15,7 +15,12 @@ export default function HeroSection() {
             applications.
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <div className="hero--section--buttons">
+          <button className="btn btn-primary">Get In Touch</button>
+          <a href="/Hirpha_Fayisa_3Years_Fullstack_Developer.pdf" download>
+            <button className="btn btn-secondary">Download CV</button>
+          </a>
+        </div>
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
