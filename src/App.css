@@ -627,6 +627,12 @@ input[type="checkbox"] {
     display: flex;
     flex-direction: column;
   }
+
+  .about--section {
+ 
+    padding: 69.3px 25.3px;
+    
+  }
   .skills--section,
   .portfolio--container,
   .hero--section--content,
