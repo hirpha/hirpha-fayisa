@@ -57,9 +57,13 @@ p {
   background-color: var(--primary);
 }
 .btn-primary {
+
   color: var(--white);
   background-color: var(--primary);
   border: 1px solid var(--primary);
+}
+.contact--form--btn {
+  width: 40vw;
 }
 .btn-primary:hover {
   color: var(--primary);
@@ -710,6 +714,9 @@ input[type="checkbox"] {
 }
 
 @media screen and (max-width: 1200px) {
+  .contact--form--btn {
+    width: 90vw;
+  }
   .nav__hamburger {
     display: flex;
     z-index: 200;
