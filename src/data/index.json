@@ -30,22 +30,22 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Kabba Passenger",
+      "description": "Kabba Passenger is an innovative mobile app by Kabba Transport Organization, addressing transportation issues in Addis Ababa. Key features include user registration, trip booking, wallet integration, real-time driver tracking, and route search. The app revolutionizes transportation in the city by providing a user-friendly solution for residents' diverse needs.",
       "link": "View In Github"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Kabba Kids",
+      "description": "The project aims to develop a mobile app for carpooling in Addis Ababa, serving schools and the general public. Key features include registration for parents and children, easy payment handling, real-time driver tracking, and a chat function for communication between parents and drivers. The app aims to revolutionize carpooling in the city.",
       "link": "View In Github"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Edl App and Backend",
+      "description": "Edl is a versatile app for ride-hailing and delivery services, offering trip creation, real-time tracking, wallet management, various payment options, ratings, notifications, user profiles, and more. Available on Play Store and App Store, it provides a convenient and user-friendly experience.",
       "link": "View In Github"
     }
   ],
@@ -53,26 +53,11 @@
     {
       "id": "1",
       "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "description": "He is a professional developer, he is focused, he follows clean code, he has good cognitive skills, and he gives advice. I advise you to hire him. Thank you, and we will work together in the future.",
+      "author_name": "Loky Auth",
+      "author_designation": " via Upwork - Mar 24, 2024 - Mar 29, 2024"
     }
+    
   ]
 }
