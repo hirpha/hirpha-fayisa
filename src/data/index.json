@@ -4,19 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "I specialize in web development, creating dynamic and visually appealing websites. From front-end design to back-end functionality, I can build customized web solutions that meet your specific requirements."
+      "description": "Specializing in web development, I create dynamic, visually engaging websites with custom front-end and back-end solutions tailored to your needs."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Skilled in Node.js, Laravel, and NestJS to build scalable, secure, and customized web solutions tailored to client needs."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Focused on creating intuitive, user-friendly interfaces that enhance the user experience and engagement across web and mobile platforms"
+    },
+    {
+      "id": "4",
+      "src": "./img/tag-1.png",
+      "title": "Application Development",
+      "description": "Experienced in building cross-platform applications that prioritize performance, scalability, and an engaging user experience across web and mobile devices."
     }
      
   ],
