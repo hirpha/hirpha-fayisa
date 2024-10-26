@@ -614,7 +614,7 @@ input[type="checkbox"] {
   .hero--section {
     display: flex;
     flex-direction: column-reverse;
-     padding: 10.333px 60.333px 10.333px;
+     margin: 10.333px 10.333px 10.333px;
 
   }
   .hero--section--title,
